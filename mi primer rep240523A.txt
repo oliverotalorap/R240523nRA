@@ -3,6 +3,10 @@ Oliver Otalora
 Primer repositorio local
 Fecha: Jue 23 Mayo del 2024
 
-Modificado 1ra vez
+1ra modificacion
 Fecha: Jueves 23 Mayo del 2024 Hora: 10:40 am
+
+2da modificacion 
+Fecha: Jueves 23 Mayo del 2024 Hora: 10:52 am
+
 .
